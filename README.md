@@ -1,6 +1,6 @@
 # Algoritmo
-💻 Exercícios do Curso de Algoritmos
-Programa utilizado: Visualg30
+💻 Exercícios do Curso de Algoritmos.
+Programa utilizado: Visualg30.
 Esta pasta contém os exercícios que realizei durante o curso de algoritmos, onde explorei conceitos fundamentais que são a base do pensamento computacional. Cada problema resolvido aqui representa um passo na minha jornada de transição para a área de tecnologia, e estou entusiasmada com cada novo aprendizado.
 
 Estou constantemente em busca de aprimorar minhas habilidades e encaro cada desafio como uma oportunidade de evoluir. A cada linha de código, sinto o quanto estou crescendo e me aproximando do meu objetivo de atuar como desenvolvedora de software.
